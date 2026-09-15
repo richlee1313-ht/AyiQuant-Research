@@ -54,7 +54,7 @@ The baseline uses adjusted market data to account for relevant corporate actions
 ---
 
 ## 5. Baseline Performance
-
+![EA1 vs QQQ Cumulative Performance](EA1_vs_QQQ_cumulative_performance.png)
 | Metric                |     EA1 |
 | --------------------- | ------: |
 | Total Return          |  31.23% |
