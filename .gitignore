@@ -1,0 +1,26 @@
+# ===================================
+# AyiQuant Research - Git Ignore
+# ===================================
+
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Original research and backups
+research_EA1_backup.ipynb
+EA1_Research.ipynb
+
+# Empty experimental modules
+main_EA1.py
+report_EA1.py
+risk_EA1.py
+
+# Duplicate charts
+EA1_vs_QQQ_cumulative_performance (2).png
+
+# Internal backtester
+backtester_EA1.py
